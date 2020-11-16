@@ -1,1 +1,3 @@
-# characters
+# Character Database System
+
+Backend repo
